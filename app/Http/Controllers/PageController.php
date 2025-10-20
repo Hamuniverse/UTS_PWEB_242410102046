@@ -37,7 +37,7 @@ class PageController extends Controller
             ],
             [
                 'id' => 2,
-                'title' => 'Pemrgraman SQL',
+                'title' => 'Pemrograman SQL',
                 'author' => 'Ilham Fajri',
                 'year' => 2025,
                 'category' => 'Novel',
