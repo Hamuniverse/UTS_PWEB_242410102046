@@ -8,3 +8,4 @@ Route::post('/login', [PageController::class, 'processLogin'])->name('login.proc
 Route::get('/dashboard', [PageController::class, 'dashboard'])->name('dashboard');
 Route::get('/pengelolaan', [PageController::class, 'pengelolaan'])->name('pengelolaan');
 Route::get('/profile', [PageController::class, 'profile'])->name('profile');
+// modis
